@@ -48,7 +48,7 @@ if(!isset($_SESSION['admin_name'])){
 
   <head>   
 
-    <title>Pagination in PHP</title>   
+    <title>Display Students</title>   
 
    <link rel="stylesheet"  
 
